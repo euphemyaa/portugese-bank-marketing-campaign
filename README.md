@@ -21,8 +21,8 @@ This dashboard visualizes demographic characteristics of customers and how these
 
 ### 🔍 Key Observations & Causes  
 **Age (25–44):** This age group made the highest call volume and subscription rate. This could be due to some factors like Prime working-age; financially active and decision-capable  
-**Marital (Married):**62% of calls and over 50% of subscriptions were made by the married people which is quite significant. Married individuals may prioritize long-term financial security  
-**Education (Secondary):**Largest share of both calls and subscriptions	Possibly the dominant educational group in the customer base is the secondary group.  
+**Marital (Married):** 62% of calls and over 50% of subscriptions were made by the married people which is quite significant. Married individuals may prioritize long-term financial security  
+**Education (Secondary):** Largest share of both calls and subscriptions	Possibly the dominant educational group in the customer base is the secondary group.  
 **Job (Manager, Technician, Blue Collar):** These jobs hadh igh subscription rates.	These job types often correlate with stable incomes and savings potential.  
 **Default Status:**	Only 2% of defaulters subscribed. Indicates risk aversion or automatic disqualification.  
 **Balance Level:**	Low balance group had most calls and subscriptions,	May indicate large population segment or recent salary deposits.  
